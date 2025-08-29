@@ -43,7 +43,7 @@ const Header = () => {
             color: "inherit",
           }}
         >
-          My Ecommerce Store
+          My_Ecommerce_Store
         </Typography>
 
         <Button

@@ -26,7 +26,6 @@ const Header = () => {
       position: "top-center",
     });
   }
-  
 
   return (
     <AppBar
@@ -44,7 +43,7 @@ const Header = () => {
             color: "inherit",
           }}
         >
-          MyStore
+          My Ecommerce Store
         </Typography>
 
         <Button
@@ -96,7 +95,6 @@ const Header = () => {
             Login
           </Button>
         )}
-       
       </Toolbar>
     </AppBar>
   );

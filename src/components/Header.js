@@ -52,7 +52,7 @@ const Header = () => {
           color="inherit"
           sx={{ textTransform: "none" }}
         >
-          Products
+          Product
         </Button>
 
         <IconButton component={Link} to="/cart" color="inherit" sx={{ mr: 2 }}>
